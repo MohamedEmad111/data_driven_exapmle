@@ -1,0 +1,13 @@
+{
+  "URL": "https://demo.nopcommerce.com/",
+  "Login": {
+    "Validcredentials": {
+      "user": "mohamed emad",
+      "pass": "123456789"
+    },
+    "Invalidcredentials": {
+      "user": "xxxxxxx",
+      "pass": "xxxxxxx"
+    }
+  }
+}
